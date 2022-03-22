@@ -1,6 +1,8 @@
 # Memoria Practica 6 CIU - Prototipo de combinación de salida gráfica 
 Creado por Marco Nehuen Hernández Abba
 
+![ezgif-1-59a71d69cf](https://user-images.githubusercontent.com/47418876/159401256-3f1b801e-0228-45fe-a9b5-e61bc42532c6.gif)
+
 ### Contenido
 - Trabajo realizado
 - Herramientas y Referencias
